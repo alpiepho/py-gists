@@ -11,6 +11,9 @@
 #
 # Companion App: all-git-commits.py pull commits for a repo.
 
+# Might need
+# open /Applications/Python\ 3.7/Install\ Certificates.command
+
 import getopt
 import json
 import os

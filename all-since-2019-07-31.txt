@@ -1,0 +1,1504 @@
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-all
+commit 26e8b90668900ea8e3af871bbb19e93787da4240
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 5 16:06:45 2019 -0600
+
+    Update README.md
+
+commit 3bc5c0e352b9b568898d01efa097a46cf9cc61ad
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 15:44:56 2019 -0600
+
+    update list
+
+commit c2ddc8011d4c3f4cea619a6a5f104d2399614ffd
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 5 09:44:59 2019 -0600
+
+    Update README.md
+
+commit 25cb376c11547ae0752f01fc78f60a86eae5c631
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:57:02 2019 -0600
+
+    fix typo
+
+commit bbb74b1cc0c0840bd34e2a19107a721adcfd9d32
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:40:18 2019 -0600
+
+    start master list
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gitprime-patterns
+commit b3852c50414f3a036f60a756a182c014ca9ff2fa
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 16:19:38 2019 -0600
+
+    typo
+
+commit 92bc40a857b32c315167b8a3c4271271d7049c16
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 11:18:20 2019 -0600
+
+    adding images
+
+commit d6e25cceb314635bf2601d50da2973c44799649d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 09:19:12 2019 -0600
+
+    adding favicon and lighthouse evaluation
+
+commit 0f3e596af3d5d3105e9e88c718439e1bb931a6b2
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 08:04:08 2019 -0600
+
+    first pass from starter
+
+commit 31369ea982d54caf671a9d7258e0858a677b7457
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 06:18:38 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/alpiepho/terms-pwa-starter.git)
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/py-parse-bsb
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-simon-game
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/scrapy_examples
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-voting-app
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-native-web-series
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/py-gists
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/pup-parse-bsb
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-timestamp-ms
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-triplecrown
+commit 59aa6d79e2933326e79f63518c08096d589a6608
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 6 16:31:07 2019 -0600
+
+    site evaluation
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-nutrien
+commit c522905ab273e84a6538be080a4c03968022aa78
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:59:05 2019 -0600
+
+    fix typo
+
+commit 37aa225acfd957330dba92cf05c54facd1cb7a7e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:50:32 2019 -0600
+
+    add link to master list
+
+commit 27cdd7527db20078a4a7a68405a2a2e24480c4aa
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:24:21 2019 -0600
+
+    fix typos
+
+commit 52fce2880a41a81f61ee54d441a5d1c3a52518bf
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 08:00:03 2019 -0600
+
+    remove header
+
+commit 0cca91ca9edb6d235a914e5d821ac0a7953f7104
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:51:56 2019 -0600
+
+    refactor
+
+commit 41c31b2782d6e6487549e2ed0ce5a96b452f500f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 17:54:49 2019 -0600
+
+    evaluation of nutrien site; this site is deeper, so evaluation is only a first pass
+
+commit ffe15944cf6ba6500eab0f240f5bda8d6abc8ebb
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 17:18:11 2019 -0600
+
+    starting from template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/code_challenges
+commit 64794a2a1db8c607e4030f275559fe04137319a7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 12 06:52:21 2019 -0600
+
+    added more tests from testdome
+
+commit 57269949b6f69f8f276d2b0ece2abcde5c2e28bd
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 10 08:03:46 2019 -0600
+
+    started first_missing_positive (not finished); started file of testdome problems for js
+
+commit 67b0e4d421537280382f9cc96b2734cdc8833a61
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 7 05:36:32 2019 -0600
+
+    added fizz buzz
+
+commit 401b9865b8b16a7db8fe9d63bff7316e891f6249
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 6 06:23:52 2019 -0600
+
+    created any base counter
+
+commit 3a3514b5cba3a64fa943dbaadee54e1a8facea5b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 1 22:15:34 2019 -0600
+
+    setting up letter_combo
+
+commit 562a466eb9b3f23f1f728b73dfe5aa95fa92a6f4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 1 21:39:53 2019 -0600
+
+    adding permutation of ints challenge
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-file-metadata-ms
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/state-web-development-2018-2019-withD3-static
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-linkedin
+commit 689bd40d61ae1d1a8aa2736d0316c7a76207d20a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:57:09 2019 -0600
+
+    fix typo
+
+commit a585ff8a6dafd60183089646c00b4ee5b94b9fe0
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:50:42 2019 -0600
+
+    add link to master list
+
+commit 82178a564e5389be647dc1d06c5cfa8ed5ba3f6e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 07:06:58 2019 -0600
+
+    evaluation for linkedin
+
+commit 0a32289af0dfd462da305630dda49fa72b57ece6
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 09:52:56 2019 -0600
+
+    adding images
+
+commit af3ccf464338b8bbcd010d249b986f1ecaec5fd7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 09:36:46 2019 -0600
+
+    start from template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-grid-layout
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-recipebox
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gatsby-starter-cv
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-portfolio2
+commit 9defaddc3c06a4aef87cb27b5e43c307ed23137d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:59:10 2019 -0600
+
+    fix typo
+
+commit 79ec1a1e1f9aef236a049412b9dbdfe7f465562f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:51:15 2019 -0600
+
+    add link to master list
+
+commit 790ff0969eee8cc0e2cad04ae50b06e37640cf73
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:25:37 2019 -0600
+
+    fix typos
+
+commit 1c1ae0ef5fbeb44dd089e07133e3a4ecb6013263
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:55:14 2019 -0600
+
+    refactor
+
+commit 909d94e593e03122d88da0cb3e4ce214f0a61ebc
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:52:24 2019 -0600
+
+    refactor
+
+commit cfbfba1c92a7b6599855acb166c5d6c44f48c294
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 18:36:48 2019 -0600
+
+    evaluation of my portfolio site
+
+commit 05ed927ec6ea874a2ad355bb2db5c8b031797a30
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 18:08:17 2019 -0600
+
+    start from template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-leaderboard
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-voting-app
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-req-header-parser-ms
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/my-gatsby-project
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/rpn-calc-chrome-extension
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/techstack
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-dice
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-roguelike-game
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio-html
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio1
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-larimer-county-workforce-development
+commit b108c7ec3d6f137374c194e86878f9ef64758f08
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 15:42:53 2019 -0600
+
+    site evaluation notes
+
+commit c9f778503537e7597fd04be3bd8728685a6b3e46
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 14:47:55 2019 -0600
+
+    start from tmplate
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio0
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-madwire
+commit 66c40b7d44d0d57a8fe176fa2c3157023acc0090
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:59:00 2019 -0600
+
+    fix typo
+
+commit a361e428f9b81c781c66ffe0570272aff9273c85
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:50:22 2019 -0600
+
+    add link to master list
+
+commit 57acdd0c7acaa123d1bf088bfb345b43762d0423
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:23:03 2019 -0600
+
+    fix typos
+
+commit f2ee302c440404e77504a0f057ad6d806524e410
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:18:24 2019 -0600
+
+    fix typos
+
+commit 9405fc6e7f24f87d6c02e849abaafff929507170
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:59:38 2019 -0600
+
+    remove header
+
+commit d305663d8bd44843e2f87a61d6f836fcbe6632c2
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:47:02 2019 -0600
+
+    refactor
+
+commit c3ad4e3a6a6f07e1ee3a87494d1e4ec10991dd85
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 17:05:38 2019 -0600
+
+    evaluation of madwire site
+
+commit 115fba165cc64930b2c4e87349782cda21b142fb
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 14:49:50 2019 -0600
+
+    starting evaluation from template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-bauer
+commit 9ddf0436658e00a8626361f7e6eff3ad8c7b03af
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 6 17:09:23 2019 -0600
+
+    quick evaluation
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gatsby
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/my-gatsby-project-netlify
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/terms-pwa-starter
+commit 02739d459ea65608829739cadab8fe8a280f2740
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 16:25:19 2019 -0600
+
+    ported changes from gitprime-patterns
+
+commit e0f561af2dda94ee8f62ce097044c994f5062028
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 06:13:27 2019 -0600
+
+    fixed some vertical space
+
+commit c23c7ee1b3e8baa52f328629e7c78be50d0d28b5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 17 11:54:18 2019 -0600
+
+    adding graphql access to terms data
+
+commit c36e422ca5a7aaa187bcb9fffac57840d6cf8b5a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 17 09:21:38 2019 -0600
+
+    partial work for reading site data with Static Query
+
+commit c50a36eda52765a135dfb784f9e6c82484eb9b95
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 17 04:17:30 2019 -0600
+
+    refactor toward siteData from graphql
+
+commit 77a0008bba90b4461fde79856c0a17b057f59991
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 18:11:19 2019 -0600
+
+    started prottypes for all components
+
+commit c6c96da77b4470b69ccf0d334cb17f90c73b027b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 17:18:22 2019 -0600
+
+    added SubTermGoogle
+
+commit 30742d7eabf4a5ae3d98493be581a791874def45
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 16:54:00 2019 -0600
+
+    adding SubTermLinks feature
+
+commit d1806ab97fe7bad9dd715e2e95827f6214c5dbdc
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 16:13:37 2019 -0600
+
+    added option to set ordered list on SubTermList
+
+commit e246f705b646202f344a668b3ebfb8d6f274beac
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 15:04:52 2019 -0600
+
+    add fireworks
+
+commit 2cef05fb497aa27de15b9eeea898df589f3dca65
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 16 13:35:28 2019 -0600
+
+    added images to About and Term
+
+commit 91d72fbd3497abea5b082cb1595989b60c377be9
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 15 09:34:00 2019 -0600
+
+    fixed about
+
+commit b43151c24938cf41e1abc70f0321b0cdf089873e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 15 09:12:23 2019 -0600
+
+    refactor Interpretation as SubTermSimple and Examples as SubTermList
+
+commit 4cb87f6877bf2acb10810fae7cfb1009d595bb4d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 15 08:39:06 2019 -0600
+
+    started sample data refactor
+
+commit 5caa05f0e0c7e9af9b5929473e6024900e29b5d0
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 15 08:06:44 2019 -0600
+
+    moved data location to siteData; sill need to use graphql
+
+commit d533819d1a793c078428a9213546dd0540afe252
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 14 09:40:29 2019 -0600
+
+    more refactor
+
+commit b61708a9fa5fb375b4fd0df82519d311d0b8e3e7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 14 09:32:30 2019 -0600
+
+    convert terms to chevron page
+
+commit f62f4f7834913f421e85a9864d7fff9c2092b96d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 14 09:18:53 2019 -0600
+
+    refactor examples and interpretation to use common chevronpane
+
+commit 528e9bced74434e05731a6f946d1d2972fc19570
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 14 08:07:07 2019 -0600
+
+    rename Priciple as Term
+
+commit 2d68df9c5fbddc0bc09ba8b05e38af37bbbae4e5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 14 07:54:40 2019 -0600
+
+    minor refactor of About
+
+commit 959b88844515dee0249e98366c7224a29c9c138a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 12 18:43:22 2019 -0600
+
+    brute force port of leadership compoenents; will refactor later
+
+commit 67007dbd028c47e72d20aa995272908ed3cf554a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 12 18:07:44 2019 -0600
+
+    changed settings and updated README for starter
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-github
+commit 83b6a9696e5ba3f06c007858214af90e00f83ace
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:58:57 2019 -0600
+
+    fix typo
+
+commit 24d47cb431d6344b2e237ccb09a6a9cc7d58b9ad
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:50:59 2019 -0600
+
+    add link to master list
+
+commit b19f4071511acfa0125a14734c6aec634cb79f94
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 07:58:11 2019 -0600
+
+    evaluation for github
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-hooks-todo
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-tribute
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/my-blog
+commit 4f06c83a96f6afd74d06b6de5ec98189a02bf1e6
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 17:52:39 2019 -0600
+
+    add blog about vb app
+
+commit ed9c1662e26787ac42e8f3648bcd0d049a15d660
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 16:59:22 2019 -0600
+
+    typo
+
+commit f7f877fab07bbfc4cf244664a7d15238fd536d0c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 16:56:54 2019 -0600
+
+    typo
+
+commit 188af48716c7b06503ee85005f80ba82ea5f470c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 16:53:51 2019 -0600
+
+    new etry about terms-pwa-starter
+
+commit 469758717820f65b21f4debe03c8cfdaf1c4b3c7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 14:44:44 2019 -0600
+
+    add blo on any-counter
+
+commit d003d1f98e14b7c7c5f96908b3f07e881c290604
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 16:00:08 2019 -0600
+
+    added blog about site evaluations
+
+commit 1b5052ebcf45c8a396b92edf407aed3e95533654
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 08:34:46 2019 -0600
+
+    fix gatsby-config.js error for gatsby-remark-emojis plugin (was inadvertently overiding image section); added blog about google searching
+
+commit cb44396f122ce146699de972fb04131bb22d492a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 04:08:41 2019 -0600
+
+    add link to portfolio
+
+commit 2cfbcb5689d428c3990a841181a1cd7db24e5f74
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 1 10:58:18 2019 -0600
+
+    finished darkmode and added blog about it
+
+commit 5e6179a42695a2d9c0b3b0915f03daaec993f359
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 1 07:57:51 2019 -0600
+
+    starting dark mode toggle
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-colors
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/lcwf-daily-jobs-summary
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-template
+commit b57d373f60ccd2cd4feacb7f94692d39ca767739
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:59:13 2019 -0600
+
+    fix typo
+
+commit 6f86cab60863d1c10d45d70f08de3b80be98f249
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 08:50:05 2019 -0600
+
+    add link to master list
+
+commit cc536d7d6d3ac6ddea05fb3676b88cc5651afefe
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:23:20 2019 -0600
+
+    fix typos
+
+commit 5f1a2ebc67285e522a5cd25686e6ec96197130d7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 06:18:11 2019 -0600
+
+    fix typos
+
+commit ea74ba30842bd98a118283c1cc1f026601fdc284
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:58:30 2019 -0600
+
+    remove header
+
+commit 4d650106c1c991eb5b8dc8a47690a0f0aff69382
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:48:16 2019 -0600
+
+    refactor
+
+commit 1f0967d29fd2e5d94de9f95e8816d7a0d04283e3
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:42:52 2019 -0600
+
+    try refactor
+
+commit 7f813289ff388ecf372116d459b55d9bf50f404a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:37:21 2019 -0600
+
+    try refactor
+
+commit 63973ac6648ca1e1c174ff1681c324526675ade1
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:32:46 2019 -0600
+
+    try refactor
+
+commit d661372e3ddf88fb922213f22bb4d28c25774fc6
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 4 07:25:57 2019 -0600
+
+    try refactor
+
+commit ae74cbebc1f03e5dfbbb00e24679ac27a20320f8
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 3 17:08:29 2019 -0600
+
+    adding logo.png to template
+
+commit 154eb36bd301f3709188886e1a3261e0ec108ece
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 14:39:24 2019 -0600
+
+    first pass for template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/player_template
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gatsby-source-github-api
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-markdown-previewer
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/jamstack-hackathon-starter
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/rpn-hex-calculator-mobile
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-image-search-ms
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/react-stats-bsb
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-url-shortener-ms
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/any-counter
+commit 2a3ea80f7e6e561429e3a900e7784263047edb22
+Merge: 065664b 1830877
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 21 10:07:14 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/any-counter
+
+commit 18308775e3e5fbcb31763db499bd8463048ea12b
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Wed Aug 21 10:06:43 2019 -0600
+
+    Update README.md
+
+commit 065664b0b8850df47b9331b71d6628709efd9c1f
+Merge: c5382a0 92d8a33
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 21 10:02:16 2019 -0600
+
+    Merge branch 'freerunning'
+
+commit 92d8a3387ab561eca3fff60a774163b29176331a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 20 17:37:04 2019 -0600
+
+    added free running counter in js, with options for WebAssembly
+
+commit 38ab9366ce11872b7313f839b6d7531828f44fed
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 20 15:43:27 2019 -0600
+
+    added free running options and js version; next will be webassembly I hope
+
+commit c5382a08e6e00eb2f6b59155efdfb76c5c457017
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 12 16:58:18 2019 -0600
+
+    Update README.md
+    
+    Note on WebAssembly
+
+commit 788d46e6125d68665d101053ecc9c0149b58ea9e
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 12 16:55:50 2019 -0600
+
+    Update README.md
+    
+    add Netlify badge
+
+commit 8f24b3b6de3e26ed1a3e94c53fb687eceb6cfc43
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 13:59:38 2019 -0600
+
+    update README
+
+commit 1e8b27b643e0a569ea4497cdcfaea52731433264
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 13:46:24 2019 -0600
+
+    port to PWA
+
+commit df6fe24446959224b67413a989fee9a79b5bfee8
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 06:15:28 2019 -0600
+
+    adding logic for counter (up)
+
+commit fd4ca8535e39353081457e7f44877f1329c35489
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 8 17:40:28 2019 -0600
+
+    started counter engine
+
+commit 3aa211bb37402a745ab53d712193e17780f90697
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 8 08:17:08 2019 -0600
+
+    starting any-counter PWA application
+
+commit d9617d23bce53098b2a1c9d083e73f9f165e53ff
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 8 07:49:24 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/meld
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/daemon-challenge
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-barchart
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio
+commit 677436fbf2709081cd83cb9e5116a40d21e0c7d7
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Thu Aug 29 16:57:33 2019 -0600
+
+    Update README.md
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/leadership
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-heatmap
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/tc-red-18u-summer-2017
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/tetris-with-pygame
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-tic-tac-toe
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/jamstack-hackathon-starter-1
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/simple-score-volleyball-pwa
+commit 197294ce4b992ecf86e2a6fcda6c45980b6bf882
+Merge: 40de1e5 3f083db
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Thu Aug 29 05:56:52 2019 -0600
+
+    Merge pull request #40 from alpiepho/issue_12_own_phone
+    
+    Issue 12 own phone
+
+commit 3f083dbdeb19d37a583fe8041fbed8302f895804
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 05:54:49 2019 -0600
+
+    added link to source
+
+commit b796f73eeb3a0226a9f435c09fd91d84bc6b3db9
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 05:39:01 2019 -0600
+
+    fix horizontal
+
+commit 40de1e521235d25aaada8a775388b8daeab629d3
+Merge: 9f58ab1 b0ab402
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Tue Aug 27 16:57:49 2019 -0600
+
+    Merge pull request #38 from alpiepho/issue_12_own_phone
+    
+    added extra note to send
+
+commit b0ab402a38ba8cec3d444eaf902fb6730951a5c4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 16:55:14 2019 -0600
+
+    added extra note to send
+
+commit 9f58ab15aa517402c61b95174481cacff1fda206
+Merge: 3ea0480 3c4cea1
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Tue Aug 27 11:41:41 2019 -0600
+
+    Merge pull request #37 from alpiepho/issue_12_own_phone
+    
+    re-enable send text
+
+commit 3c4cea1a9ad66f10a97f3af258cc4224f165cd17
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 11:40:10 2019 -0600
+
+    re-enable send text
+
+commit 3ea0480d18a55db54d6e126a483d9f01d5438d86
+Merge: 723ce67 dacc956
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Tue Aug 27 09:08:16 2019 -0600
+
+    Merge pull request #36 from alpiepho/issue_12_own_phone
+    
+    Issue 12 own phone
+
+commit dacc956966a3c92ccec046be059bf33944d7b138
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 09:04:04 2019 -0600
+
+    started building message to text
+
+commit 0f08b0fc871476b980d3b8991ca9a293d30ff0fa
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 08:55:41 2019 -0600
+
+    updating README.md
+
+commit c83590d0d61180b9f5f8ca52b4d2ed65ab8a6100
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 08:45:28 2019 -0600
+
+    updatedd gatsby; added phone setting; use phone setting for send button
+
+commit 723ce676532bd760fe8aed7ecfd469e97a52b509
+Merge: c1d1164 8b5894b
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 26 18:18:39 2019 -0600
+
+    Merge pull request #33 from alpiepho/hookup_settings
+    
+    Hookup settings
+
+commit 8b5894b30a1b605ed033a8ff0fe658cf73355164
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 18:17:05 2019 -0600
+
+    dont think we want top level lambda in git
+
+commit 17260055882627ec8ccce6ae5d2c33f9e0d347de
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 17:42:32 2019 -0600
+
+    fixed arial-label
+
+commit b4b443cea31820c7b398cdbae6110fc4880b6f0c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 16:30:13 2019 -0600
+
+    added gp-pages deploy
+
+commit c1d116419c6eccddbe16bfeca3c70bc0ed605f65
+Merge: 4daf3b9 895a711
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 26 16:21:29 2019 -0600
+
+    Merge pull request #32 from alpiepho/hookup_settings
+    
+    Hookup settings
+
+commit 895a7119b4c2030a55413e9862756adff1b72214
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 16:02:02 2019 -0600
+
+    start on home page
+
+commit 8d715372ce62f307fbccadf4cc2f673b5d66d643
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 15:55:22 2019 -0600
+
+    add icons
+
+commit 46b916aebfeba6e4ece781e0b10e1b7f5852d8d4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 15:49:34 2019 -0600
+
+    refactor passing data; use local storage instead of using hack to pass data
+
+commit 4daf3b906526131a249bdb1309a178eb292f82e5
+Merge: 5ffef0f 41fd3e8
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 26 12:46:24 2019 -0600
+
+    Merge pull request #31 from alpiepho/hookup_settings
+    
+    Hookup settings
+
+commit 41fd3e8de110761cb998315bdb5fb585b54b650f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 26 12:43:40 2019 -0600
+
+    hooked up settings
+
+commit ad4201668a57d5f6b35eb9972029448ca0592f09
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 25 22:24:21 2019 -0600
+
+    something has fixed the firs boot problem
+
+commit ef923165298e2d976d705093c078d078a2d8cafa
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 25 22:04:30 2019 -0600
+
+    have mechanism to pass data back from settings; not clean; maybe just use local storage directly
+
+commit 5ffef0fb3ea507365057c17ff9fb6ff208b1744f
+Merge: 6a6960e 0a2c15d
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Sun Aug 25 08:01:27 2019 -0600
+
+    Merge pull request #28 from alpiepho/issue_7_simple_ui
+    
+    Issue 7 simple ui
+
+commit 0a2c15dda89b1735bc674c608fc02748496f1a76
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 25 07:55:59 2019 -0600
+
+    single landscape warning; started scores page with passed settings
+
+commit 6455d30654cd00bc4f2c06ff0fcf72b2eae0f736
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Aug 24 08:30:49 2019 -0600
+
+    added ui components to settings page
+
+commit 6a6960ee4c080a63fa7f8f528f850c82613bd0d0
+Merge: 0acdb94 1d229b7
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Aug 23 12:12:39 2019 -0600
+
+    Merge pull request #27 from alpiepho/issue_7_simple_ui
+    
+    added workaround for first about page
+
+commit 1d229b720e234b57fb3a7641f9a65b3b822d2ba9
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 12:11:07 2019 -0600
+
+    added workaround for first about page
+
+commit 0acdb94c11f596a307551dd822afac42ccb2f04d
+Merge: b24ee38 707a1fc
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Aug 23 09:45:24 2019 -0600
+
+    Merge pull request #26 from alpiepho/issue_7_simple_ui
+    
+    Issue 7 simple ui
+
+commit 707a1fc9beebc551a5018b0f23a168f7c90ebfcd
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 09:44:19 2019 -0600
+
+    added all basic pages
+
+commit 875bf3dec2c796603b5ac07431ea0f1be414820a
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 08:39:01 2019 -0600
+
+    refactor page vs components; cleaned up warnings
+
+commit eb4b26e5b4abde54fa023686b9c58297670c4a4c
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 07:02:03 2019 -0600
+
+    update todo list
+
+commit b24ee38e27d41aeaf050c27671f0dbd756135ee7
+Merge: 1c5c931 92b3f60
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Aug 23 06:48:48 2019 -0600
+
+    Merge pull request #25 from alpiepho/issue_7_simple_ui
+    
+    Issue 7 simple ui
+
+commit 92b3f600c5f7a0b4e6f8cd33d8100c9fdfc664ae
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 06:47:52 2019 -0600
+
+    update todo list
+
+commit e430ab2b7e4c1398473aef817fdd5444601f72ff
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 06:47:21 2019 -0600
+
+    update todo list
+
+commit 7e7e740470a0f3c301d0adfa4fa31c22f96a3a2a
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 06:41:00 2019 -0600
+
+    refactor to show About first; makes problem with no style on first page better; but is still there
+
+commit 1826d3dcb5141435f7a3b0e10957b129bf0deeb8
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 06:24:14 2019 -0600
+
+    refactor useStates
+
+commit 1c5c931628c4a8c0e1602a5cb3af836e1ad6a2a9
+Merge: 3b39d9c e9128e7
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Aug 23 03:10:48 2019 -0600
+
+    Merge pull request #24 from alpiepho/issue_7_simple_ui
+    
+    replace react-use-localstorage with locl functions to use localstorage
+
+commit e9128e7996707675a7ba07c0d32b967474f1c2ef
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Aug 23 03:05:03 2019 -0600
+
+    replace react-use-localstorage with locl functions to use localstorage
+
+commit 3b39d9c5e0a0885075a634ed4a13d9a11ef4af61
+Merge: fe22ad6 0fe7cc7
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Thu Aug 22 19:44:54 2019 -0600
+
+    Merge pull request #23 from alpiepho/issue_7_simple_ui
+    
+    Issue 7 simple ui
+
+commit 0fe7cc757bde6d31ab35965c238df1ed610aa044
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 19:41:48 2019 -0600
+
+    trying save on exit; not sure it works
+
+commit 6ff618a3bae54ebc57a1a7c9f8d42d67175ab04e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 19:35:27 2019 -0600
+
+    added useLocalSettings to save state before channging pages; should do this on exit too
+
+commit 55acde0be8735417beaabb9caf57d42fded4a8a5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 19:12:11 2019 -0600
+
+    adding stub for settings page
+
+commit e60c860bf7c24e4fe77ec7743c5e2b2ac434ae0c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 17:34:53 2019 -0600
+
+    added about; need to keep main page state
+
+commit ce713a69f84b24124fd3f4b4cc326206b728b1b5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 13:40:57 2019 -0600
+
+    added icons to controls
+
+commit 060890d1635c28b825e12cf4ec0a429e6df27cb6
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 22 11:13:04 2019 -0600
+
+    started main page
+
+commit fe22ad6c4dbdc1fff83c6dd10ab35d918366ba6d
+Merge: df4162c 9a04068
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Tue Aug 20 09:46:14 2019 -0600
+
+    Merge pull request #21 from alpiepho/issue_5_twillio
+    
+    added experiment for twilio; and first pass of lambda function to iss…
+
+commit 9a04068d545e08f1b05bb11215207ffe58c74bb4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 20 09:42:23 2019 -0600
+
+    added experiment for twilio; and first pass of lambda function to issue twlio request
+
+commit df4162c802090a6c2497322828de71cbb0ac52aa
+Merge: 65ec9db 3c3d347
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Tue Aug 20 06:11:22 2019 -0600
+
+    Merge pull request #20 from alpiepho/issue_4_netlify_identity
+    
+    Issue 4 netlify identity
+
+commit 3c3d347ca970e4529d1edef6fc24a0b09b14470c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 20 06:09:19 2019 -0600
+
+    add note about turning on Netlify login
+
+commit df08bbb7c57e722c93189618e2578bca205067e3
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 20 05:55:30 2019 -0600
+
+    moved client side code from 'app' to 'scores'
+
+commit d574062902429f6df6acc26603361823960a4b3c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 22:04:46 2019 -0600
+
+    force deploy
+
+commit 27e4fff1ac07051b7c53cdc82bbd5efaefc9bf1f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 21:58:39 2019 -0600
+
+    port example
+
+commit 65ec9dbaae9fcfc8e3867edd2aa0123901fde62d
+Merge: 8a9c9b3 d125618
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 19 15:26:01 2019 -0600
+
+    Merge pull request #19 from alpiepho/issue_3_netlify_function
+    
+    Issue 3 netlify function
+
+commit d1256188072a8dc91a31ed7591c59dfe5d548351
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 15:23:09 2019 -0600
+
+    adding netlify tag
+
+commit 5076ea56be28a8ae0d42f8fd4b4b59219158d555
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 15:15:21 2019 -0600
+
+    added simple hello lambda function; need to test from Netlify
+
+commit 8a9c9b327d53a7643498563e530a09cd16625ab0
+Merge: 944e75c eb2c1df
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 19 14:21:22 2019 -0600
+
+    Merge pull request #17 from alpiepho/issue_2_roughdiagram
+    
+    adding rough diagrams to README (ascii art still lives)
+
+commit eb2c1df834fb6829d4ef6928bbec049a3f06ea40
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 14:20:21 2019 -0600
+
+    adding rough diagrams to README (ascii art still lives)
+
+commit 944e75cd728c2e7e8b6fcc38ddbe1760b71851c7
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Mon Aug 19 06:21:46 2019 -0600
+
+    Update README.md
+
+commit 0979277f7d92d43065f30728f662f059d68d9217
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 19 06:20:59 2019 -0600
+
+    starting from any-counter
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio2
+commit 9648f354ad258bb6f054c0052a4af3673ff6bc71
+Merge: f3baba9 25d2224
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 28 11:46:07 2019 -0600
+
+    Merge branch 'develop'
+
+commit 25d22248c899e753c23ec1a731c16a64e9b6d780
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 28 11:43:38 2019 -0600
+
+    blur cover image
+
+commit f3baba9d1ff876a911ab2941946b31a438f304cb
+Merge: 85bb2ea 353a4bf
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 17:36:57 2019 -0600
+
+    Merge branch 'develop'
+
+commit 353a4bf1cd1691cee04c267f88df7d786b93e62d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Aug 27 17:36:43 2019 -0600
+
+    added vb app
+
+commit 85bb2ea79cbf33ca58cd5aeb6c771aa7b9cd907c
+Merge: f45478f 2ea626d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 18:25:57 2019 -0600
+
+    Merge branch 'develop'
+
+commit 2ea626d0ebca4822880563579fa007e789e08bd1
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Aug 18 18:25:30 2019 -0600
+
+    added gatsby starter
+
+commit f45478f66061a61d771ccbec7b01a80201f103da
+Merge: de0337d e7bed79
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 14:23:44 2019 -0600
+
+    Merge branch 'develop'
+
+commit e7bed79f2fe1d79874806685e5f4677672dae9c1
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 9 14:23:24 2019 -0600
+
+    add any-counter
+
+commit de0337d9b6638def96419501c1759840c65e1807
+Merge: 0b81b23 939f2da
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 8 06:32:35 2019 -0600
+
+    Merge branch 'develop'
+
+commit 939f2da9c6ea4aaa3cf6d0ed7e5cf6aad9194027
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 8 06:28:59 2019 -0600
+
+    update resume
+
+commit 0b81b23e881322083275e1aadd9dd0d2f7a0a2c5
+Merge: 9778f93 d1bd573
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Aug 6 13:46:33 2019 -0600
+
+    Merge branch 'develop'
+
+commit d1bd573b909b47c3b13150362012d8f5b6eaf354
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Aug 6 13:41:51 2019 -0600
+
+    add updated resume
+
+commit 9778f934c56330451635cc6117a6eb5a0965b78a
+Merge: 1ff0d8f b3b894c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 16:23:43 2019 -0600
+
+    Merge branch 'develop'
+
+commit b3b894c1292790294c03b075f29f31df090bbee0
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Aug 5 16:23:08 2019 -0600
+
+    added site eval project
+
+commit 1ff0d8f5df69b3a8641593ff70a59f1f101dcea7
+Merge: 297c035 f60369f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 18:18:31 2019 -0600
+
+    Merge branch 'develop'
+
+commit f60369fb7fe7b7a6c49f08795971aedeabdd582d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 12:07:07 2019 -0600
+
+    adding darkmode; includes changing to scss and adding some npm packages; also tried to fix key errors in console...still have 1 left; defer deploy until off hours
+
+commit 297c035258878ba384154409c7a0bb0c4200f683
+Merge: 622f683 3452911
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 04:00:57 2019 -0600
+
+    Merge branch 'develop'
+
+commit 3452911eafcb83bb339039a22ff7e52430602108
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 04:00:37 2019 -0600
+
+    added links to my new blog
+
+commit 622f6836152bf21086f638c97b7031c33cacfbad
+Merge: f9e3b65 fc06806
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Aug 2 03:45:02 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/project-portfolio2
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/mental-models
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/rpn-calc-vscode-extension
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-forcedirect
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-gameoflife
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio3
+commit a8fc944f9595fbb2895791830225ef4b50a18299
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:50:04 2019 -0600
+
+    add link to portfolio2
+
+commit 53a59d04121c1575e8b1daa46a7dccd60602692c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:38:30 2019 -0600
+
+    update README.md
+
+commit 8ce8ad601d8668347d24987f34bbf78298fe8e8a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:37:55 2019 -0600
+
+    update README.md
+
+commit 1120fda8307723fe0663c1f74fdc4422d67f4e0f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:35:46 2019 -0600
+
+    fix mailto
+
+commit 062cb28bcd7bee0f31f73745798ac075431a9be1
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:31:56 2019 -0600
+
+    chaange icon
+
+commit 93d20ea6a783a3f6cb2b820a9f9a79935165433c
+Merge: 7f030e5 5031c3d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:10:20 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/project-portfolio3
+
+commit 7f030e50003cb3ad62e6a22f3bdfdb7d391329a4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 16:10:03 2019 -0600
+
+    fix a path
+
+commit 5031c3d70b38508295d994ddc1c20763be2f82e6
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Thu Aug 29 16:03:59 2019 -0600
+
+    Set theme jekyll-theme-tactile
+
+commit e6efb3daee158f7ccf22240f7e9f0442b35a0819
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Thu Aug 29 16:02:48 2019 -0600
+
+    Set theme jekyll-theme-slate
+
+commit 91265686d83b8534d65d66f2e049dfe02c25e0fb
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 15:55:39 2019 -0600
+
+    remove some files
+
+commit 81b799de7f865e37c0ece157bb504d22803d3c6c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 15:41:12 2019 -0600
+
+    gemfile for gh-pages
+
+commit 71edadb07efeab427146b0b38de9ce74ecfe2050
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 15:34:15 2019 -0600
+
+    adding podcasts; not as nice as portfolio
+
+commit a76de38737297204f45dd5667243860c82d57230
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 15:10:29 2019 -0600
+
+    cleaned up sections; partway thru podcasts
+
+commit a1f23dd841f920135d8892088a368f575544bcb0
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 12:46:20 2019 -0600
+
+    used convert tool to buld the _post files; and give me template for copying image files
+
+commit 3af7fb6407daed60bb7f4ac6f685a18e70a3ef8c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 09:42:56 2019 -0600
+
+    added tool to convert portfolio2 data; converted data for jobs
+
+commit 12256c826b0bd5dd9e50def24cbfa15b0bab1f4c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Aug 29 03:51:18 2019 -0600
+
+    started changing details; name, contacts, favicon; started tool to convert jobs and projects
+
+commit b8244cd20225984d4445dd2baf42d752b33110cd
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Aug 28 12:50:23 2019 -0600
+
+    starting jekyll site from theme https://github.com/y7kim/agency-jekyll-theme
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/pure-css-daily-challenges
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-scatterchart
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/scrapy_learning
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gatsby-hooks-todo
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/gc-stats
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/website-content
+
+--------------------------------------------
+/Users/Al/Projects/python/py-gists/test1/repos/state-web-development-2018-2019-withD3-pwa
