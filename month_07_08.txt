@@ -1,0 +1,998 @@
+command:
+python3 all-gitlog.py -u alpiepho -d test1 -A 2019-07-01 -U 2019-08-01 -I gatsby,test
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  py-gists
+commit b139db6718b94a61f483558a6fc6e8562d8d7762
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 13:09:25 2019 -0600
+
+    adding README.md
+
+commit ae9b54a2a3dd41793c5661dc07dd189fa28157d4
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 13:08:15 2019 -0600
+
+    adding README.md
+
+commit fb7baeedc8fe0a65b3a492e77d3363e85f193948
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 13:03:29 2019 -0600
+
+    moving key python gists to a repo
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  code_challenges
+commit 68468113566dbea33c630c418113d6b5ca167eb8
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 31 05:21:31 2019 -0600
+
+    framework for permutations; still need solution
+
+commit 6a1ca6a846509cee4deb1e5ba0c3aca3281be2cd
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Jul 20 18:14:00 2019 -0600
+
+     added string to integer problem
+
+commit 79016f0c28c4613504773c469e1d35be70a88cf8
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 00:21:03 2019 -0600
+
+    update problems
+
+commit 7d059962f321477a40a86114ce9b42359d553326
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 12:10:57 2019 -0600
+
+    added more solutions
+
+commit 021e036ede509a3801122639aff8b1e5cad365c2
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 12:10:06 2019 -0600
+
+    added more solutions
+
+commit 3d7f57b10a4ac6b9a29718cc2392c48e7aae81bd
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 17 07:54:23 2019 -0600
+
+    added word freq bash script
+
+commit 242af3b4fdb4ee5bca2338c239b1264fcc6c7140
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 17 06:16:49 2019 -0600
+
+    adding longest_substr and most_water
+
+commit c0bab8100b091eef106be11728761447fface96b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Jul 13 10:57:02 2019 -0600
+
+    add problem for add two
+
+commit 215671fa397e28b7062a448f7d73aef21a612869
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 11 08:29:15 2019 -0600
+
+    adding a couple more easy LeetCode problems
+
+commit 47dfe8b2c40099388c4879e0b4428fc05066f0e5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 10 06:46:17 2019 -0600
+
+    added strStr from LeetCode
+
+commit 9c251a68dfb6b897831742872ceb6a7963ed3c4d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 9 08:35:10 2019 -0600
+
+    leetcode remove element
+
+commit 0f2cf4add36b396aa4f502e929df3e2d59d5826d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 8 09:27:29 2019 -0600
+
+    finished merge two
+
+commit 8d46a1c1a0bd522c1b695aed8b8382f0616097e3
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Jul 6 02:33:12 2019 -0600
+
+    adding set.c; some refactor of numsSize
+
+commit f2216e76e2a538a52a884945f9ff89c28b65404b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 5 05:38:34 2019 -0600
+
+    added lognest prefix
+
+commit 267a4bcb401696563b9fb250a626b7ebd9a08765
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 4 08:09:44 2019 -0600
+
+    added roman to integer problem
+
+commit badf1a55de99ad2f1e5d8c7f2cda0a1f72a36360
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 3 09:02:22 2019 -0600
+
+    added valid paren challenge
+
+commit a94d8c582667159757f0aa4d6532f3dc915414c5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 3 09:01:20 2019 -0600
+
+    added valid paren challenge
+
+commit 8a20b93150eed587783abb03f559178aae4e6755
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 3 01:32:19 2019 -0600
+
+    added palindrome
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  state-web-development-2018-2019-withD3-static
+commit 528e62c1df5374d61c5172ae96fbf813d9d72aea
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Jul 19 17:03:57 2019 -0600
+
+    Update README.md
+
+commit 7eecbb35399ddff935f086a3e441613b342c15f3
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 15 10:30:52 2019 -0600
+
+    add google analytics id
+
+commit aab80b52fcf482b250163c1769d876d74f634158
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 15 10:25:57 2019 -0600
+
+    udpdate link to github and README
+
+commit b6c62ea0677f9c37b7696c8f739082ab8ce0d718
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 15 10:10:51 2019 -0600
+
+    from branch under techstack fork
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  my-gatsby-project
+commit 2fe92a883ca0064619def8337231f45c423dab4c
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Wed Jul 24 07:30:11 2019 -0600
+
+    Update README.md
+
+commit d1f175d677e534c7a27011b04f5e7c9a40b03e35
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Jul 20 17:26:53 2019 -0600
+
+    update readme
+
+commit 6145136e8861e1c7a8fd16f61da27e9980a9d7e7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 09:32:55 2019 -0600
+
+    update readme
+
+commit 8162b0bf6b4abb01575224c16f85359edec5ed29
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 09:30:23 2019 -0600
+
+    update readme
+
+commit 598d50975bfec563e312de0c4fa548b37c67a2e5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 06:55:28 2019 -0600
+
+    update readme
+
+commit ccf0ea3fd39f78045c05bab33f2c450dadd8ae31
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 03:54:40 2019 -0600
+
+    update readme
+
+commit a89f71a5152c93062da4adb006d14d4607976443
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 17 09:03:00 2019 -0600
+
+    update readme
+
+commit 3425ec943d695e993f4aa04490852d0a530dcb89
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 21:42:17 2019 -0600
+
+    update readme
+
+commit 5deca429295f824948f8aeab0ec88680837bc780
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 21:41:23 2019 -0600
+
+    update readme
+
+commit fa73483a6cbeba0af8e2d413fbd7642c2259c61a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 20:13:19 2019 -0600
+
+    update readme
+
+commit 80617d0f452b8910e1e9d46e9c3032ad24e68f60
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 20:11:05 2019 -0600
+
+    update readme
+
+commit ce474160ef0abd9d84a24f21c6acdfc01e33a44a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 18:31:44 2019 -0600
+
+    update readme
+
+commit 8ebb87e1c78c0b7476d47788f36f56dbd09908b3
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:50:16 2019 -0600
+
+    update README
+
+commit fcb5568883d8e1266c03e60732230214e4ad6489
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:47:38 2019 -0600
+
+    update README
+
+commit 2262c0a59ec496376ffffd7906b8716c5604c96c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:47:05 2019 -0600
+
+    update README
+
+commit afd46a0fc4b27c18f7b40fa5bcddc5d86d9b581f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 07:13:59 2019 -0600
+
+    adding my TODO list
+
+commit 5d6be697ee6cc83ae4f19ef09334b5a9cd409e6b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 05:54:58 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  react-dice
+commit c88869d02a5c0e8ccd108d7a5bbfb44c46a53614
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 31 06:59:40 2019 -0600
+
+    tried another idea to pass pwabuilder.com test for pushManager...still dont get it
+
+commit 782901770ee63ef784d629e4b65f95754ba40beb
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Jul 11 14:45:25 2019 -0600
+
+    update npm
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  project-portfolio1
+commit 2501cbfc5af4224f2b4cb848d733cbcf05e3414e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Jul 14 11:50:32 2019 -0600
+
+    try to upgrade lodash
+
+commit 503081b0efd538b98fe922d0ffa494230adf90b7
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Jul 14 11:47:52 2019 -0600
+
+    try to upgrade lodash
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  my-gatsby-project-netlify
+commit e63f975a9260dcafe66ed886e889b63b46adf174
+Merge: 52e1940 74675aa
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 09:26:05 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/my-gatsby-project-netlify
+
+commit 52e19401674cc82ce1fd6af2d1b2e235e46c5717
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 09:25:54 2019 -0600
+
+    adding code snippets from tutorial (before Bonus); not complete and the referenced jamstack-hackathon-starter repo has a lot more; next step will be merge from that repo without replacing main default gatsby pages
+
+commit 74675aacb218faccce566493b8154a938e46f61b
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Jul 19 08:07:37 2019 -0600
+
+    Update README.md
+
+commit 6c68a91a5903802281d7b510dbb47840be02983c
+Merge: 9843be3 14da652
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 08:02:51 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/my-gatsby-project-netlify
+
+commit 9843be39a7f3c44cfe2c855a65f99a13474e23a9
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 08:02:37 2019 -0600
+
+    adding the first lambda (hello) that is invoked when page2 loads
+
+commit 14da652882f2c413af19ceeff33e14726835a750
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Jul 19 07:46:57 2019 -0600
+
+    Update README.md
+
+commit 067004969f5548120532be88bd256cd499381929
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 05:58:43 2019 -0600
+
+    changed title etc, added a page3, changed image on page1 (for screenshot in Netlify)
+
+commit 598d50975bfec563e312de0c4fa548b37c67a2e5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 06:55:28 2019 -0600
+
+    update readme
+
+commit ccf0ea3fd39f78045c05bab33f2c450dadd8ae31
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 03:54:40 2019 -0600
+
+    update readme
+
+commit a89f71a5152c93062da4adb006d14d4607976443
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 17 09:03:00 2019 -0600
+
+    update readme
+
+commit 3425ec943d695e993f4aa04490852d0a530dcb89
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 21:42:17 2019 -0600
+
+    update readme
+
+commit 5deca429295f824948f8aeab0ec88680837bc780
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 21:41:23 2019 -0600
+
+    update readme
+
+commit fa73483a6cbeba0af8e2d413fbd7642c2259c61a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 20:13:19 2019 -0600
+
+    update readme
+
+commit 80617d0f452b8910e1e9d46e9c3032ad24e68f60
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 20:11:05 2019 -0600
+
+    update readme
+
+commit ce474160ef0abd9d84a24f21c6acdfc01e33a44a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 18:31:44 2019 -0600
+
+    update readme
+
+commit 8ebb87e1c78c0b7476d47788f36f56dbd09908b3
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:50:16 2019 -0600
+
+    update README
+
+commit fcb5568883d8e1266c03e60732230214e4ad6489
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:47:38 2019 -0600
+
+    update README
+
+commit 2262c0a59ec496376ffffd7906b8716c5604c96c
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 13:47:05 2019 -0600
+
+    update README
+
+commit afd46a0fc4b27c18f7b40fa5bcddc5d86d9b581f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 07:13:59 2019 -0600
+
+    adding my TODO list
+
+commit 5d6be697ee6cc83ae4f19ef09334b5a9cd409e6b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 16 05:54:58 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  my-blog
+commit 5e6179a42695a2d9c0b3b0915f03daaec993f359
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Aug 1 07:57:51 2019 -0600
+
+    starting dark mode toggle
+
+commit 298127d855380993f8639fd9399ef23e0d859035
+Author: al <alpiepho@yahoo.com>
+Date:   Wed Jul 31 21:30:37 2019 -0600
+
+    added support for emojis :smile:
+
+commit d52bbaf58ed799c2282812304e421a4ff17b1d9a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 31 17:33:57 2019 -0600
+
+    expand date string to show time
+
+commit 4867a49340ad70b895fabff553bf07ac93676183
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 31 06:48:49 2019 -0600
+
+    adding blog about adding blog entry
+
+commit 8c92e7808d7e3be4212502324c54a031b38596af
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 07:13:26 2019 -0600
+
+    update README
+
+commit e9d53446f8817ff1714893bbc8c4277d2c85c0e4
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 07:08:10 2019 -0600
+
+    changes for my first blog
+
+commit 87aed61b56586d0e76bd64c53be1334e54daa1c0
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 05:37:11 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-blog.git)
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  gatsby-source-github-api
+commit b13afef632976a3ac74a966dea95bf3fc7255bca
+Author: apiepho <alpiepho@gmail.com>
+Date:   Thu Jul 18 06:20:54 2019 -0600
+
+    testing if my version is loaded
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  react-stats-bsb
+commit 9f03a996522996c86d2add73ba66877fffb66451
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 29 05:44:40 2019 -0600
+
+    manually update new team; need to parse teams.json
+
+commit 602ff73e669c1a949d310ac5c06a4d1d94e1aef1
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 29 05:25:36 2019 -0600
+
+    update data
+
+commit c1a79647c5465be82ada21862ac171541bae619b
+Author: al <alpiepho@yahoo.com>
+Date:   Sat Jul 20 05:27:44 2019 -0600
+
+    update data
+
+commit da2f03174f0ce2e2af1883f2459f32e14a6466af
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 20:31:54 2019 -0600
+
+    update data
+
+commit a404a9b0b37071bf00ec94acdd0114ac0f7e132e
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 20:09:27 2019 -0600
+
+    see if adding lodash directly clears GitHub warnings
+
+commit 0b9333fa5dd4318a8a265cbe6b96c8578822b0a9
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 19:58:28 2019 -0600
+
+    reworked local storage so it runs on mobile
+
+commit 138f784ebbffd8f54ca4daf884428ae3aebeb54c
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 15:09:23 2019 -0600
+
+    update data
+
+commit 6b7db3ae54ca93c5b1b160657765251c138603fc
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 00:02:28 2019 -0600
+
+    update data
+
+commit b34eb32973b411dc6392f1b9e32d932d2e6c49c3
+Author: al <alpiepho@yahoo.com>
+Date:   Sat Jul 13 18:06:02 2019 -0600
+
+    update data
+
+commit a3f127e2b5f0fad53d5355c9404885ebcca0d3f4
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Jul 11 00:09:20 2019 -0600
+
+    update data
+
+commit 4ae98e7288be06ab9fb863b59a6bdcb918ee9869
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 9 23:59:19 2019 -0600
+
+    update data
+
+commit ed886be9a93787037332c05d4a6bd3674e4e9ec8
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 9 05:46:39 2019 -0600
+
+    adding other stat columns; still some wierdness
+
+commit 5bd1841d4d0161b744680cd6694d481f0994f679
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 23:59:04 2019 -0600
+
+    update data
+
+commit a9232db385840add90dac057b397e0517d5bab03
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 10:47:55 2019 -0600
+
+    update data
+
+commit 0d729dac1c816ef418d10136c488236155a08a11
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 10:46:24 2019 -0600
+
+    update data
+
+commit 4e26b997be610c453a71f3aab9d084378e9ac597
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 10:30:22 2019 -0600
+
+    update data
+
+commit 15d9f244ef3e6239b4baa574f475cbac3e440aa3
+Merge: 7b510e2 da83436
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 10:21:09 2019 -0600
+
+    Merge branch 'master' of https://github.com/alpiepho/react-stats-bsb
+
+commit 7b510e26d1270206a2d416da594574f342db1e0c
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 10:20:57 2019 -0600
+
+    teams.json without date for now
+
+commit da83436cb409c2070364d9d9b399917f83315432
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 8 08:02:31 2019 -0600
+
+    fixed prop setting issues
+
+commit 33b8a73f6f461f46ca32a200aaa39b17909550ca
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 8 06:12:24 2019 -0600
+
+    fixed small screen
+
+commit 06484f88b78f022e0c4d57e49863037918280cab
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 7 23:17:51 2019 -0600
+
+    update readme
+
+commit 6675117ed47f01c5225e42823acadff59f5ea250
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 7 23:11:27 2019 -0600
+
+    updated data file; cleaned up details; hacked columns to common stats
+
+commit 4967bcee187712d165098563ba3f2051e447a4a5
+Author: al <alpiepho@yahoo.com>
+Date:   Sat Jul 6 16:58:51 2019 -0600
+
+    update data
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  leadership
+commit 1fad2c3603e6e974c01a70eb6e843b0a2f9361e4
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 20:37:44 2019 -0600
+
+    attempt to fix lodash warning
+
+commit 67b883ebcd6abe2b713f41a6ca98a0344e88c83d
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Jul 11 14:54:05 2019 -0600
+
+    update npm
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  project-portfolio2
+commit fc06806d963304176c2637d5615146c8848b5aa6
+Merge: 73cb104 d43570f
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 11:03:23 2019 -0600
+
+    Merge branch 'develop'
+
+commit d43570f2fcbd7fcf49f6c60bb245a8152a5c499c
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 11:03:06 2019 -0600
+
+    adding sabbatical
+
+commit 73cb10409c6fe79f9ab9d388291087aea6010b20
+Merge: b10151c 89b2313
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 10:15:28 2019 -0600
+
+    Merge branch 'develop'
+
+commit 89b2313796378a1f186a411b201d44a213bd22f6
+Author: al <alpiepho@yahoo.com>
+Date:   Tue Jul 30 10:15:11 2019 -0600
+
+    update resume
+
+commit f9e3b65fefe8a7698d1248ba49a42fce06976c7f
+Merge: ae9377f 094fd5b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 17:59:15 2019 -0600
+
+    Merge branch 'develop'
+
+commit 094fd5b50bba5e60cf27a928143b4b0469f0d9c4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 17:57:16 2019 -0600
+
+    added new project and changed background
+
+commit b10151c9d8be207e518ab8d90ae763aaf5e4a5bf
+Merge: 00dbbdd 9026374
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 15 10:54:55 2019 -0600
+
+    Merge branch 'develop'
+
+commit 90263741855d8fba0fa0ddd25e1fe8222abb1caf
+Author: al <alpiepho@yahoo.com>
+Date:   Mon Jul 15 10:51:16 2019 -0600
+
+    adding State of Development project
+
+commit 00dbbdd5e4087f88e57843d255d023f3a717eb80
+Merge: 5d3f52d 4c9a2cc
+Author: al <alpiepho@yahoo.com>
+Date:   Sat Jul 13 16:31:41 2019 -0600
+
+    Merge branch 'develop'
+
+commit 4c9a2cca881eb9dda2c12cf4a94002e3341a2682
+Author: al <alpiepho@yahoo.com>
+Date:   Sat Jul 13 16:31:17 2019 -0600
+
+    add bsb-stats and fixed akimbo image WITHOUT updating package.json
+
+commit 5d3f52d2f864c9b36e43ed5b9cd613de4c7b5b7b
+Author: al <alpiepho@yahoo.com>
+Date:   Fri Jul 12 04:34:28 2019 -0600
+
+    disable repos unitl I can determine why it broke
+
+commit 32d6d31818aa30650f538e19a20a02ea2c2dedba
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Jul 11 15:59:29 2019 -0600
+
+    updated npm; link to repos is failing :(
+
+commit bb33c2d800e208002b0724e8e5e6b51209abc8c6
+Author: al <alpiepho@yahoo.com>
+Date:   Thu Jul 11 14:59:58 2019 -0600
+
+    update npm
+
+commit ae9377ff6e70e536a909acf443c2ab31cab00db5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 9 08:13:28 2019 -0600
+
+    update with react stats
+
+commit 866940984a87b4a2ac2df3fd2bf45afcb31e9656
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 10:17:36 2019 -0600
+
+    comment console.log
+
+commit d719b8e6630efc057fb3a7542fc26dda75cc9d54
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 09:33:59 2019 -0600
+
+    change subtitle on bubble click to show description
+
+commit d86963427c67f2e3b82fbd20f4e0fad09b54f1fe
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 08:19:05 2019 -0600
+
+    started bubble chart with my project ideas
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  mental-models
+commit 64cb6cbd439575c9ab62243ded6d32b91135ebfd
+Author: al <alpiepho@yahoo.com>
+Date:   Sun Jul 14 20:48:24 2019 -0600
+
+    attempt to fix github warning for lodash
+
+commit 3afd3243018d57ee44a367ed73b1145b3aaeebb5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sat Jul 6 08:32:40 2019 -0600
+
+    fix a couple typos
+
+commit bd541bb110244530572427773c26154d076d3a5f
+Author: apiepho <alpiepho@gmail.com>
+Date:   Wed Jul 3 07:34:26 2019 -0600
+
+    added SEO
+
+commit 1cc8e24df690e46de0b30dbe60224fd2f69e6c3b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 17:13:53 2019 -0600
+
+    note about PWA
+
+commit b2edd0f5bdf349e71ec0d3fd518a797425977bce
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 17:03:18 2019 -0600
+
+    added back button
+
+commit 9fe67c9a61a50676b39d884109ce48efe00ab88a
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 16:28:32 2019 -0600
+
+    finished adding descriptions from Medium article
+
+commit ec786208aa0cf8a5fb9fbaf91297addf408a9b97
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 13:21:12 2019 -0600
+
+    started filling in descriptions
+
+commit 0da618ebfe40a8860de532c9d49645445a7d4a06
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 13:04:31 2019 -0600
+
+    rename class
+
+commit 337288af297e247edb037e3a58535aa2545b2bee
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 2 12:57:01 2019 -0600
+
+    first pass
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  gatsby-hooks-todo
+commit ea12c42fadc2e9e551bddd6899a812b647d64005
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 23 06:53:53 2019 -0600
+
+    deploy to gh-pages
+
+commit edbca06754df5b9b6fb24191cdc8fd1755c417b5
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 23 06:09:43 2019 -0600
+
+    minor style changes
+
+commit 3d962b925e7d82d22e5ee999c6fe00dda1cbbde4
+Author: apiepho <alpiepho@gmail.com>
+Date:   Tue Jul 23 05:58:21 2019 -0600
+
+    adding darkmode option; need to chagne button color and extend background
+
+commit f99e776874a34027655439735e66d9b81db4e329
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 13:22:26 2019 -0600
+
+    removed default pages; updated readme
+
+commit 5f8762d069f36e1dbe25d24418a4ceedac32ae25
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 12:45:42 2019 -0600
+
+    added local state
+
+commit 6d8fe1e54af9321a9db4f0f7634e28523c6ce6e9
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 12:12:43 2019 -0600
+
+    fixed bug
+
+commit 221fbee39336ddca04c8bf4322d053bbb83e11bf
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 11:16:50 2019 -0600
+
+    port of abstract state and input; not clearing old input
+
+commit 3a1a5488b6250aebc1831b25835f9cbdb833dc0d
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 08:58:27 2019 -0600
+
+    ported delete; more README notes
+
+commit 5f96f54a21942d52602e5ff2da56a64aa7dc4276
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 08:50:44 2019 -0600
+
+    ported add-todo; added notes to README
+
+commit 806320105aad3f77b4a2488340d0c5c46d4b4488
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 08:23:05 2019 -0600
+
+    adding code from 'start' branch of react-hooks-todo
+
+commit 341b348557770d89f362ddcbc686c214bf2eff60
+Author: apiepho <alpiepho@gmail.com>
+Date:   Mon Jul 22 07:48:57 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  website-content
+commit a21f16a13b36b16f5e9338ff9d318a461179126a
+Author: Flavio Copes <copesc@gmail.com>
+Date:   Thu Jul 11 14:58:19 2019 +0200
+
+    Readme
+
+commit c446582d1d026c8912fbfab3749c63728ae429bc
+Author: Flavio Copes <copesc@gmail.com>
+Date:   Thu Jul 11 14:57:56 2019 +0200
+
+    .gitignore
+ 
+
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  state-web-development-2018-2019-withD3-pwa
+commit 0a350f27995dc61b93218a54dec0f9bbd8d3a65b
+Author: apiepho <alpiepho@gmail.com>
+Date:   Sun Jul 21 17:23:15 2019 -0600
+
+     fix icons in manifest
+
+commit 39d2d3fcc368f9198f1d94b110ca2a81d6939e96
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 17:26:37 2019 -0600
+
+    added Google Analytics ID
+
+commit 8110165cd91803aba986e3780302b67a3e482299
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Jul 19 17:23:21 2019 -0600
+
+    Update README.md
+
+commit 086acc6e8b4187d6c342ef2314fd6ffd16e5d6e0
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 17:07:24 2019 -0600
+
+    adding screenshot of lighthouse audit
+
+commit 072f649a8a8dd5741edbe16d70c8654aebe95d2a
+Author: Al Piepho <alpiepho@yahoo.com>
+Date:   Fri Jul 19 17:00:13 2019 -0600
+
+    Update README.md
+
+commit e978d182ba8af88388a3eed5863328454ef8b481
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 16:47:58 2019 -0600
+
+    adding pwa; need to revisit hardcoded path to bubble png files in the data.js file
+
+commit fd6b6ffbbe56c5dd12367e7985a21cc53e320b37
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 14:32:53 2019 -0600
+
+    deploy to gh-pages; d3 not loading, might need PWA changes
+
+commit 2c2f6de08a7e15834a2f694ad21e1c649b452c7e
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 14:03:47 2019 -0600
+
+    removed page2; moved D3 to main page
+
+commit a7e2955c3fa97c9d3906f4289eeac8d6d1ee3b49
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 13:45:41 2019 -0600
+
+    port branch d3-state-of-web from repo my-gatsby-project
+
+commit 4e4f7122d5b525e4cd23d82261c9654cddbaa199
+Author: apiepho <alpiepho@gmail.com>
+Date:   Fri Jul 19 13:10:53 2019 -0600
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+ 
+
+
+===========================================
+Summary of REPOS:
+  3   py-gists
+ 18   code_challenges
+  4   state-web-development-2018-2019-withD3-static
+ 18   my-gatsby-project
+  2   react-dice
+  2   project-portfolio1
+ 21   my-gatsby-project-netlify
+  8   my-blog
+  1   gatsby-source-github-api
+ 23   react-stats-bsb
+  2   leadership
+ 17   project-portfolio2
+  9   mental-models
+ 12   gatsby-hooks-todo
+  2   website-content
+ 11   state-web-development-2018-2019-withD3-pwa

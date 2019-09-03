@@ -1,6 +1,10 @@
+command:
+python3 all-gitlog.py -u alpiepho -d test1 -A 2019-08-01 -U 2019-09-01 -I gatsby,test
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-all
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-all
 commit 26e8b90668900ea8e3af871bbb19e93787da4240
 Author: Al Piepho <alpiepho@yahoo.com>
 Date:   Mon Aug 5 16:06:45 2019 -0600
@@ -30,9 +34,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:40:18 2019 -0600
 
     start master list
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gitprime-patterns
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  gitprime-patterns
 commit b3852c50414f3a036f60a756a182c014ca9ff2fa
 Author: apiepho <alpiepho@gmail.com>
 Date:   Sun Aug 18 16:19:38 2019 -0600
@@ -62,41 +69,23 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Sun Aug 18 06:18:38 2019 -0600
 
     Initial commit from gatsby: (https://github.com/alpiepho/terms-pwa-starter.git)
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/py-parse-bsb
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-simon-game
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/scrapy_examples
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-voting-app
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-native-web-series
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/py-gists
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/pup-parse-bsb
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-timestamp-ms
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-triplecrown
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-triplecrown
 commit 59aa6d79e2933326e79f63518c08096d589a6608
 Author: apiepho <alpiepho@gmail.com>
 Date:   Tue Aug 6 16:31:07 2019 -0600
 
     site evaluation
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-nutrien
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-nutrien
 commit c522905ab273e84a6538be080a4c03968022aa78
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:59:05 2019 -0600
@@ -138,9 +127,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Sat Aug 3 17:18:11 2019 -0600
 
     starting from template
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/code_challenges
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  code_challenges
 commit 64794a2a1db8c607e4030f275559fe04137319a7
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 12 06:52:21 2019 -0600
@@ -176,15 +168,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Thu Aug 1 21:39:53 2019 -0600
 
     adding permutation of ints challenge
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-file-metadata-ms
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/state-web-development-2018-2019-withD3-static
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-linkedin
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-linkedin
 commit 689bd40d61ae1d1a8aa2736d0316c7a76207d20a
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:57:09 2019 -0600
@@ -214,18 +203,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Sun Aug 4 09:36:46 2019 -0600
 
     start from template
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-grid-layout
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-recipebox
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gatsby-starter-cv
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-portfolio2
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-portfolio2
 commit 9defaddc3c06a4aef87cb27b5e43c307ed23137d
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:59:10 2019 -0600
@@ -267,39 +250,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Sat Aug 3 18:08:17 2019 -0600
 
     start from template
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-leaderboard
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-voting-app
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-req-header-parser-ms
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/my-gatsby-project
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/rpn-calc-chrome-extension
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/techstack
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-dice
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-roguelike-game
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio-html
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio1
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-larimer-county-workforce-development
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-larimer-county-workforce-development
 commit b108c7ec3d6f137374c194e86878f9ef64758f08
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 15:42:53 2019 -0600
@@ -311,12 +267,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 14:47:55 2019 -0600
 
     start from tmplate
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio0
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-madwire
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-madwire
 commit 66c40b7d44d0d57a8fe176fa2c3157023acc0090
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:59:00 2019 -0600
@@ -364,23 +320,23 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Fri Aug 2 14:49:50 2019 -0600
 
     starting evaluation from template
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-bauer
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-bauer
 commit 9ddf0436658e00a8626361f7e6eff3ad8c7b03af
 Author: apiepho <alpiepho@gmail.com>
 Date:   Tue Aug 6 17:09:23 2019 -0600
 
     quick evaluation
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gatsby
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/my-gatsby-project-netlify
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/terms-pwa-starter
+####################################################################################################################################
+####################################################################################################################################
+REPO:  terms-pwa-starter
 commit 02739d459ea65608829739cadab8fe8a280f2740
 Author: apiepho <alpiepho@gmail.com>
 Date:   Sun Aug 18 16:25:19 2019 -0600
@@ -512,9 +468,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 12 18:07:44 2019 -0600
 
     changed settings and updated README for starter
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-github
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-github
 commit 83b6a9696e5ba3f06c007858214af90e00f83ace
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:58:57 2019 -0600
@@ -532,15 +491,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 07:58:11 2019 -0600
 
     evaluation for github
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-hooks-todo
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-tribute
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/my-blog
+####################################################################################################################################
+####################################################################################################################################
+REPO:  my-blog
 commit 4f06c83a96f6afd74d06b6de5ec98189a02bf1e6
 Author: apiepho <alpiepho@gmail.com>
 Date:   Tue Aug 27 17:52:39 2019 -0600
@@ -594,21 +550,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Thu Aug 1 10:58:18 2019 -0600
 
     finished darkmode and added blog about it
+ 
 
-commit 5e6179a42695a2d9c0b3b0915f03daaec993f359
-Author: al <alpiepho@yahoo.com>
-Date:   Thu Aug 1 07:57:51 2019 -0600
 
-    starting dark mode toggle
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-colors
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/lcwf-daily-jobs-summary
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/site-evaluation-template
+####################################################################################################################################
+####################################################################################################################################
+REPO:  site-evaluation-template
 commit b57d373f60ccd2cd4feacb7f94692d39ca767739
 Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 5 08:59:13 2019 -0600
@@ -680,33 +627,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Fri Aug 2 14:39:24 2019 -0600
 
     first pass for template
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/player_template
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gatsby-source-github-api
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-markdown-previewer
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/jamstack-hackathon-starter
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/rpn-hex-calculator-mobile
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-image-search-ms
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/react-stats-bsb
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-be-url-shortener-ms
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/any-counter
+####################################################################################################################################
+####################################################################################################################################
+REPO:  any-counter
 commit 2a3ea80f7e6e561429e3a900e7784263047edb22
 Merge: 065664b 1830877
 Author: apiepho <alpiepho@gmail.com>
@@ -790,44 +716,23 @@ Author: al <alpiepho@yahoo.com>
 Date:   Thu Aug 8 07:49:24 2019 -0600
 
     Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/meld
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/daemon-challenge
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-barchart
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio
+####################################################################################################################################
+####################################################################################################################################
+REPO:  project-portfolio
 commit 677436fbf2709081cd83cb9e5116a40d21e0c7d7
 Author: Al Piepho <alpiepho@yahoo.com>
 Date:   Thu Aug 29 16:57:33 2019 -0600
 
     Update README.md
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/leadership
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-heatmap
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/tc-red-18u-summer-2017
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/tetris-with-pygame
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-fe-tic-tac-toe
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/jamstack-hackathon-starter-1
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/simple-score-volleyball-pwa
+####################################################################################################################################
+####################################################################################################################################
+REPO:  simple-score-volleyball-pwa
 commit 197294ce4b992ecf86e2a6fcda6c45980b6bf882
 Merge: 40de1e5 3f083db
 Author: Al Piepho <alpiepho@yahoo.com>
@@ -1238,9 +1143,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Mon Aug 19 06:20:59 2019 -0600
 
     starting from any-counter
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio2
+
+####################################################################################################################################
+####################################################################################################################################
+REPO:  project-portfolio2
 commit 9648f354ad258bb6f054c0052a4af3673ff6bc71
 Merge: f3baba9 25d2224
 Author: apiepho <alpiepho@gmail.com>
@@ -1364,21 +1272,12 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Fri Aug 2 03:45:02 2019 -0600
 
     Merge branch 'master' of https://github.com/alpiepho/project-portfolio2
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/mental-models
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/rpn-calc-vscode-extension
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-forcedirect
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-gameoflife
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/project-portfolio3
+####################################################################################################################################
+####################################################################################################################################
+REPO:  project-portfolio3
 commit a8fc944f9595fbb2895791830225ef4b50a18299
 Author: apiepho <alpiepho@gmail.com>
 Date:   Thu Aug 29 16:50:04 2019 -0600
@@ -1481,24 +1380,27 @@ Author: apiepho <alpiepho@gmail.com>
 Date:   Wed Aug 28 12:50:23 2019 -0600
 
     starting jekyll site from theme https://github.com/y7kim/agency-jekyll-theme
+ 
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/pure-css-daily-challenges
 
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/fcc-dv-scatterchart
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/scrapy_learning
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gatsby-hooks-todo
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/gc-stats
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/website-content
-
---------------------------------------------
-/Users/Al/Projects/python/py-gists/test1/repos/state-web-development-2018-2019-withD3-pwa
+===========================================
+Summary of REPOS:
+  5   site-evaluation-all
+  6   gitprime-patterns
+  1   site-evaluation-triplecrown
+  7   site-evaluation-nutrien
+  6   code_challenges
+  5   site-evaluation-linkedin
+  7   site-evaluation-portfolio2
+  2   site-evaluation-larimer-county-workforce-development
+  8   site-evaluation-madwire
+  1   site-evaluation-bauer
+ 22   terms-pwa-starter
+  3   site-evaluation-github
+  9   my-blog
+ 12   site-evaluation-template
+ 14   any-counter
+  1   project-portfolio
+ 60   simple-score-volleyball-pwa
+ 19   project-portfolio2
+ 17   project-portfolio3
